@@ -11,4 +11,3 @@ const student = {
     }
 
 }
-student.greet();
